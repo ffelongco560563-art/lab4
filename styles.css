@@ -57,7 +57,6 @@ body {
   background: linear-gradient(135deg, #22c55e, #16a34a);
 }
 
-/* ===== Navigation ===== */
 .nav-container {
   background: #111827;
   padding: 16px 28px;
@@ -80,7 +79,6 @@ body {
   color: #fff;
 }
 
-/* ===== Buttons ===== */
 .btn {
   display: inline-block;
   padding: 10px 10px;
