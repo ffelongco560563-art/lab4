@@ -34,7 +34,7 @@ if (isset($_POST['save'])) {
 </head>
 <body>
 <?php include "../nav.php"; ?>
-X
+
 <div class="form-card">
   <h2 class="page-title">Add Client</h2>
   <?php if($message): ?>
